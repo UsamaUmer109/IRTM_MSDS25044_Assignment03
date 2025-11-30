@@ -19,6 +19,7 @@ def tokenize_text(text):
 
 # Apply tokenization 
 df['Tokenized_Article'] = df['Cleaned_Article'].apply(tokenize_text)
+df['Tokenized_Heading'] = df['Heading'].apply(tokenize_text)
 
 # Count total tokens
 total_tokens = 0
@@ -28,5 +29,5 @@ for tokens in df['Tokenized_Article']:
 
 print(f"Tokenization completed!")
 # Save the tokenized data
-df.to_csv("data/raw/tokenized_articles.csv", index=False)
+df.to_csv("data/raw/tokenized_dataset.csv", index=False)
 print("\nSaved tokenized Articles")
