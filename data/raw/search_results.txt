@@ -1,0 +1,28 @@
+Query: imran khan
+Operation: AND
+Found 22 documents
+Document IDs: [1280, 1799, 2190, 2203, 2209, 2477, 1198, 1458, 1463, 1464, 1468, 1217, 1865, 1482, 1230, 1488, 1873, 1234, 2393, 1372, 1255, 1271]
+
+Document details:
+ID 1280: Heading PSL Islamabad thump Peshawar to face Quetta in fi
+ID 1799: Heading Inzamam announces players for England tour skills 
+ID 2190: Heading Pakistan bat against Sussex in warm up 
+ID 2203: Heading Sussex give tough time to Pakistani
+ID 2209: Heading Pakistan potential beat England Waqar Youni
+ID 2477: Heading Pakistan shippers fume as containers hijacked to block pr
+ID 1198: Heading PSL Quetta Gladiators restrict Islamabad United to 117
+ID 1458: Heading Imran to advice Pak team ahead of India T20 
+ID 1463: Heading I hope match result is same as when I played here last time says Imr
+ID 1464: Heading Impressive ceremony opens Pak India T20 match at Eden Gard
+ID 1468: Heading World T20 Imran Khan meets Pakistan team in Indi
+ID 1217: Heading Gladiators clinch easy win against United with 7 wi
+ID 1865: Heading Wasim Akram celebrates 50th birthday cricket Paki
+ID 1482: Heading Imran congratulates womens team criticizes Pakistan cricket structur
+ID 1230: Heading Islamabad emerge victorious against Karachi
+ID 1488: Heading Imran asks India to play positive role for bilateral seri
+ID 1873: Heading Pakistan 17 member squad England tour
+ID 1234: Heading Islamabad win toss field against Karachi
+ID 2393: Heading Fight till the last ball Imran advises national cricket 
+ID 1372: Heading Pakistan should not play Dharamsala T20 Imran K
+ID 1255: Heading Karachi win toss bat against Peshawar
+ID 1271: Heading PSL Sharjeels ton takes Islamabad to 176 3 score against Peshawar
