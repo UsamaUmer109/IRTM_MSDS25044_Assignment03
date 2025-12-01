@@ -1,0 +1,28 @@
+TF-IDF Search Results
+Query: imran khan
+
+Document 1198
+Score: 1.0000
+Heading: PSL Quetta Gladiators restrict Islamabad United to 117
+Article: SHARJAH: The bowlers of Quetta Gladiators made it impossible for Islamabad United to score big in the 11th match of Pakistan Super League (PSL) here at Sharjah Cricket Stadium Thursday night. Not only did the Gladiators limited United to just 117 runs but got the entire team out in 19.1 overs.Captain Shane Watson scored 40 runs and remained the highest scorer for Islamabad. No other player could stay long at the crease, as Imran Khalid scored 18, BJ Haddin 15, AD Russel and Saeed Ajmal 10 each, Khalid Latif 6, Sharjeel Khan SW Billings and Rumman Raees made two runs each.Gladiators GD Elliot did greatest damage by taking three wickets. Babar and Aizaz took two wickets each while Anwar Ali, Muhammad Nawaz and Muhammad Nabi got one wicket each.
+
+Document 1217
+Score: 1.0000
+Heading: Gladiators clinch easy win against United with 7 wi
+Article: SHARJAH: Quetta Gladiators sailed smoothly as they beat Islamabad United with 7 wickets in the 11th contest in Pakistan Super League (PSL) here at Sharjah Cricket Stadium in the early hours of Friday. Going after a mediocre target of 118, Shehzad scored 41 runs off 31 deliveries with the help of 5 fours and a six. Sarfraz made half-century and remained invincible at 51 in 39 balls with 6 fours.Mohammad Nawaz added 14 runs to the Gladiators total, pushing the team to achieve the target of 118 runs.Andre Russel got all the three for the Islamabad United.Earlier, Gladiators not only limited Islamabad United to just 118 runs but got the entire team out in 19.1 overs.Captain Shane Watson scored 40 runs and remained the highest scorer for Islamabad. No other player could stay long at the crease, as Imran Khalid scored 18, BJ Haddin 15, AD Russel and Saeed Ajmal 10 each, Khalid Latif 6, Sharjeel Khan SW Billings and Rumman Raees made two runs each.Gladiators GD Elliot did greatest damage by taking three wickets. Babar and Aizaz took two wickets each while Anwar Ali, Muhammad Nawaz and Muhammad Nabi got one wicket each.
+
+Document 1230
+Score: 1.0000
+Heading: Islamabad emerge victorious against Karachi
+Article: SHARJAH: Islamabad United defeated Karachi Kings by five wickets in the 15 th Twenty20 match of the first Pakistan Super League here at the Sharjah Cricket Stadium on Sunday.Chasing an easy target of 129, they completed their victory with seven balls to spare.Their main scorers were captain Misbha-ul-Haq (38), Khalid Latif (33) and Asif Ali (31 not out).For Karachi Kings, pace bowler Sohail Khan captured two wickets for 23 while Mohammad Amir, Ravi Bopara and Usama Mir claimed one wicket each.Earlier, sent into bat, Karachi Kings were restricted to 128 runs for five wickets in the 20 overs.Ravi Bopara top scored with 45, followed by Mushfiqur Rahim (33) and Shahzaib Hasan (27). Left-arm spinner Imran Khalid claimed two wickets for 19 while Mohammad Sami, Azhar Mehmood and Andre Russell took one wicket each.
+
+Document 1255
+Score: 1.0000
+Heading: Karachi win toss bat against Peshawar
+Article: DUBAI: Karachi Kings captain Shoaib Malik won the toss and elected to bat first against Peshawar Zalmi in the 19th Twenty20 match of the first Pakistan Super League here at the Dubai International Cricket Stadium on Wednesday.This would be a must win match for Karachi Kings whereas Peshawar Zalmi has already qualified for play-off.Lendl Simmons and Riki Wessels have been included in Karachi Kings while Jim Allenby is playing for Peshawar Zalmi. Tamim Iqbal is not playing in this match.Teams:Karachi Kings: Lendl Simmons, Shahzaib Hasan, Shoaib Malik (captain), Ravi Bopara, Shakib Al Hasan, Riki Wessels (wk), Bilawal Bhatti, Mohammad Amir, usama Mir, Sohail Khan, Saifullah Khan Bangash.Peshawar Zalmi: Mohammad Hafeez, Dawid Malan, Jim Allenby, Brad Hodge, Kamran Akmal (wk), Shahid Afridi (captain), Darren Sammy, Aamer Yamin, Abdur Rehman, Hasan Ali, Imran Khan.
+
+Document 1488
+Score: 1.0000
+Heading: Imran asks India to play positive role for bilateral seri
+Article: ISLAMABAD: Former skipper Imran Khan has asked India to play a positive role for ensuring a bilateral cricket series between their country and Pakistan. Talking to BBC the former world cup winning captain said that a bilateral cricket series between the two neighbouring countries was very important. A cricket series between the two countries will be a great affair. This will benefit cricket boards of both, he said.Imran Khan, however, said that as the Board of Control for Cricket in India(BCCI) was already financially stable, a series would be more beneficial for Pakistan Cricket Board (PCB). The PCB may spend money earned through this way to improve its domestic cricket, he said.He said Pakistan always showed a positive attitude for bilateral series and took steps for that but India did not respond positively.Khan said India was a large country and there was an element of arrogance in its attitude, adding this factor was a hurdle in the way of a series.Expressing disappointment at the national team s loss against India in Word T20 game, he said Pakistan team did not do justice with their talent. If they had suffered defeat while fighting there would have been no disappointment, but it is regrettable they lost in a one sided affair, he said.
+
